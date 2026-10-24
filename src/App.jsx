@@ -73,16 +73,16 @@ const INITIAL_CV_DATA = {
     footerTagline: "AI Developer & Architect"
   },
   personal: {
-    fullName: "Iman Dehghan",
-    title: "Senior AI Developer & Backend Architect | Distributed Systems & LLMs",
+    fullName: "Parmis Hajianfard",
+    title: "Mid-Level AI Developer & Software Engineer | Distributed Systems & LLMs | ML",
     logoUrl: "",
-    email: "iman.backend.eng@gmail.com",
-    phone: "+90 555 019 9643",
-    location: "Istanbul, Turkey",
-    github: "https://github.com/iman-backend",
-    linkedin: "https://linkedin.com/in/iman-dehghan",
-    website: "https://imandehghan.dev",
-    summary: "Senior AI Developer and Backend Software Architect with 10+ years of production engineering experience designing intelligent distributed systems, enterprise RAG pipelines, and high-concurrency cloud services. Deep expertise in Python, Deep Learning (PyTorch, TensorFlow), LLM orchestration, and scalable microservices. Proven track record of architecting mission-critical platforms serving 80M+ users and leading AI-driven modernization initiatives across global engineering teams."
+    email: "parmishajian@gmail.com",
+    phone: "+601116897308",
+    location: "KL, Malaysia",
+    github: "https://github.com/parmisu",
+    linkedin: "https://linkedin.com/",
+    website: "https://",
+    summary: "Mid-Level AI Developer and Backend Software Architect with 10+ years of production engineering experience designing intelligent distributed systems, enterprise RAG pipelines, and high-concurrency cloud services. Deep expertise in Python, Deep Learning (PyTorch, TensorFlow), LLM orchestration, and scalable microservices. Proven track record of architecting mission-critical platforms serving 80M+ users and leading AI-driven modernization initiatives across global engineering teams."
   },
   stats: [
     { label: "Engineering Experience", value: "10+ Yrs", sub: "AI & Distributed Systems" },
@@ -180,7 +180,7 @@ const INITIAL_CV_DATA = {
       meta: "Python • LangChain • Spring AI • OpenAI | 2024-2025",
       description: "Engineered a production-grade Retrieval-Augmented Generation (RAG) platform integrating semantic vector search, LLM orchestration, and automated document ingestion workflows—reducing enterprise knowledge discovery time by ~80%.",
       technologies: ["Python", "LangChain", "Spring AI", "OpenAI API", "Vector DB", "RAG"],
-      link: "https://github.com/iman-backend"
+      link: "https://github.com/parmisu"
     },
     {
       id: "proj-4",
@@ -189,7 +189,7 @@ const INITIAL_CV_DATA = {
       meta: "Python • TensorFlow • Deep Learning | 2025",
       description: "Implemented an unsupervised deep autoencoder architecture for physiological time-series anomaly detection, achieving over 95% reconstruction accuracy through rigorous statistical thresholding.",
       technologies: ["Python", "TensorFlow", "Autoencoders", "Time-Series", "Anomaly Detection"],
-      link: "https://github.com/iman-backend"
+      link: "https://github.com/parmisu"
     },
     {
       id: "proj-3",
@@ -198,7 +198,7 @@ const INITIAL_CV_DATA = {
       meta: "Python • TensorFlow • IEEE Published | 2016-2018",
       description: "Architected novel deep collaborative filtering models for personalized content discovery on public datasets, forming the foundation of my M.Sc. thesis at the University of Tehran and an IEEE publication.",
       technologies: ["Python", "TensorFlow", "Deep Learning", "Collaborative Filtering", "Neural Networks"],
-      link: "https://github.com/iman-backend"
+      link: "https://github.com/parmisu"
     },
     {
       id: "proj-1",
@@ -207,7 +207,7 @@ const INITIAL_CV_DATA = {
       meta: "Java 21 • Spring Boot 3.4 • Redis • Docker | 2025",
       description: "Architected a fault-tolerant REST microservice integrating multiple external financial providers with distributed Redis caching, strict schema validation, observability, and automated CI/CD pipelines.",
       technologies: ["Java 21", "Spring Boot", "Redis", "Docker", "REST API", "CI/CD"],
-      link: "https://github.com/iman-backend"
+      link: "https://github.com/parmisu"
     }
   ],
   education: [
@@ -711,7 +711,7 @@ export default function App() {
             <div className="flex flex-col md:flex-row md:items-end justify-between gap-4 border-b border-pink-200/60 dark:border-zinc-800/80 pb-4">
               <div>
                 <div className="text-xs font-code uppercase tracking-widest text-pink-600 dark:text-pink-400 mb-1">// 01. CORE COMPETENCIES</div>
-                <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">AI & Engineering Stack</h2>
+                <h2 className="text-2xl sm:text-3xl font-bold tracking-tight">AI & Engineering Simantack</h2>
               </div>
               <div className="flex flex-wrap gap-1.5">
                 <button
